@@ -17,10 +17,11 @@ You need to apply for the api token after logging in at http://suo.im
 
 Configure suoAPI as your key
 
-命令：
-1. 复制长链接，在 alfred 输入 `short ctrl+v`
-2. 回车
-3. 短链接将会复制到剪切板
+## 步骤
+1. [下载](https://github.com/shanelau/short-url-aflred/raw/master/Short%20URL.alfredworkflow)
+2. 复制长链接，在 alfred 输入 `short ctrl+v`
+3. 回车
+4. 短链接将会复制到剪切板
 
 如果失效，需要 http://suo.im/ 登录后申请 api 的 token，
 
