@@ -1,5 +1,5 @@
-# short-url-aflred
-Create a short URL with suo.io for alfred workflow
+# short-url-alfred
+Create a short URL with suo.io for your alfred workflow
 
 ## view 
 1. [Download](https://github.com/shanelau/short-url-aflred/raw/master/Short%20URL.alfredworkflow)
